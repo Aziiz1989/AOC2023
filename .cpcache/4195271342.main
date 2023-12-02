@@ -1,0 +1,4 @@
+-m
+nrepl.cmdline
+--interactive
+--color
